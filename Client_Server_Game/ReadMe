@@ -1,0 +1,35 @@
+Authors: NagaSubhash Moturu, Saichand Kilari
+Date: 08- May-2020
+
+Contribution:
+Server by Sai Chand Kilari
+Client by NagaSubhash Moturu
+
+Detailed instructions on how to run your client server.
+first need to compile and run Server, then client:
+How to run Server:
+1)type CMD command on wherever the file is located
+2)enter "javac Server.java" which is to compile the code(case sensitive)
+3)then enter "java Server" which runs the compiled code(case sensitive)
+
+Type ″java server.java″ and run the server file.
+Above procedure will fire up the server. make sure not to close the window until
+the work is done.
+
+run the client files using these java commands
+
+** make sure to type the server's ip adress in the socket if you are using different machines 
+we tested in 1computer so we used localhost**
+
+How to run Client:
+1)type CMD command on wherever the file is located
+2)enter "javac Client.java" which is to compile the code(case sensitive)
+3)then enter "java Client" which runs the compiled code(case sensitive)
+
+type "exit" in the terminal if you want to quit.
+
+Platform : Java
+
+
+Known issues or flaws: 
+Couldn't implement different guessing strategies for the clients.
